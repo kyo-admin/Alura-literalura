@@ -20,9 +20,6 @@ Con la resolución del desafío LiterAlura, experimentará directamente el papel
 
 <h2>Construyendo una solicitud de API</h2>
 <h3>Construyendo el Cliente para Solicitudes (HttpClient)</h3>
-<img width="699" height="687" alt="image" src="https://github.com/user-attachments/assets/5dc4b9e3-e93c-477f-8584-4bc73fe4ea65" />
-
-
 <p> En la tercera fase de nuestro desafío, empleamos la clase HttpClient para realizar solicitudes a la API de libros y obtener datos esenciales. El uso de HttpClient en Java facilita la conexión y la obtención de respuestas de manera eficiente. Además, proporciona una base sólida para realizar operaciones HTTP de manera más estructurada y versátil. Explorar y entender el manejo de esta clase en Java optimiza el proceso de solicitud.</p>
 <h3>Construyendo la Solicitud (HttpRequest)</h3>
 <p>
@@ -33,3 +30,4 @@ Con la resolución del desafío LiterAlura, experimentará directamente el papel
 <p>
   Finalmente, nos enfocamos en el uso de la interfaz HttpResponse para gestionar las respuestas recibidas de la API. La interfaz HttpResponse en Java ofrece una estructura que permite analizar y acceder a los diferentes elementos de una respuesta HTTP. Al entender cómo trabajar con esta interfaz, podrás extraer información significativa de las respuestas, como códigos de estado, encabezados y el cuerpo de la respuesta, que normalmente se presenta en formato JSON.
 </p>
+<img width="699" height="687" alt="image" src="https://github.com/user-attachments/assets/5dc4b9e3-e93c-477f-8584-4bc73fe4ea65" />
