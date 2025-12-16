@@ -9,7 +9,19 @@ Con la resolución del desafío LiterAlura, experimentará directamente el papel
 <h2>Indice</h2>
 
 <a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#gutendex"># Gutendex</a>
+
 <a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#construyendo-una-solicitud-de-api"># Construyendo una solicitud de API</a>
+
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#-analizando-la-respuesta-en-formato-json"># Analizando la respuesta en formato JSON</a>
+
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#convertiendo-los-datos"># Convertiendo los datos</a>
+
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#interactuando-con-el-usuario"># Interactuando con el usuario</a>
+
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#consultar-libros"># Consultar libros</a>
+
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#persistencia-de-datos"># Persistencia de datos</a>
+
 
 
 
@@ -45,6 +57,8 @@ Recuerda utilizar las clases proporcionadas por Jackson, como ObjectMapper, para
 <img width="586" height="443" alt="image" src="https://github.com/user-attachments/assets/d442e59b-59ba-4643-924c-b3f6ee3f2a43" />
 
 <h2>Convertiendo los datos</h2>
+<img width="941" height="421" alt="image" src="https://github.com/user-attachments/assets/e7677af7-f369-46c4-9566-8d195ee68369" />
+
 <p>En esta etapa, llevaremos a cabo las conversiones con los datos de libros y autores, ahora que contamos con la información en nuestro poder.raised_hands
 Experimenta utilizando clases java para recibir los datos obtenidos mediante la API, transformar los atributos del cuerpo JSON a una clase Java y mostrar los resultados.
 Es fundamental crear métodos específicos para manejar estos datos, lo que hará que el código sea más modular y fácil de entender, como getters, setters and toString().
