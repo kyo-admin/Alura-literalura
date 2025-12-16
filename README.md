@@ -8,6 +8,11 @@ Con la resolución del desafío LiterAlura, experimentará directamente el papel
 
 <h2>Indice</h2>
 
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#gutendex"># Gutendex</a>
+<a href="https://github.com/kyo-admin/Alura-literalura/blob/main/README.md#construyendo-una-solicitud-de-api"># Construyendo una solicitud de API</a>
+
+
+
 <h2>Gutendex</h2>
 <img width="842" height="750" alt="image" src="https://github.com/user-attachments/assets/117257ed-64eb-4885-b28b-98fcb99c9874" />
 
