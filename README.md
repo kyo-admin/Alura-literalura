@@ -1,7 +1,6 @@
 
 <h1>Challenge Literalura</h1> 
-<img width="469" height="281" alt="image" src="https://github.com/user-attachments/assets/2d697ec5-b5ea-4bb1-9fd1-ed76c0d47fd7" />
-
+<img width="817" height="287" alt="image" src="https://github.com/user-attachments/assets/d8c564d2-79b2-4a5d-806e-79e1ffe52c20" />
 
 <h2>Reseña</h2>
 <p>Aplicación de Spring Boot con PostgreSQL y la API de Gutenberg
@@ -47,5 +46,9 @@ Es fundamental crear métodos específicos para manejar estos datos, lo que har�
 → No olvides utilizar las anotaciones @JsonIgnoreProperties y @JsonAlias para obtener los atributos deseados del cuerpo de respuesta json.</p>
 
 
-<h2></h2>
+<h2>Interactuando con el usuario</h2>
+<img width="469" height="281" alt="image" src="https://github.com/user-attachments/assets/2d697ec5-b5ea-4bb1-9fd1-ed76c0d47fd7" />
+<p>En esta etapa del desafío, nos adentraremos en la interacción con el usuario. El método Main debe implementar la interfaz CommandLineRunner y su método run() donde deberás llamar un método para exhibir el menu. En este método, debes crear un bucle para presentar a tu usuario las opciones de insercion y consulta. El usuario deberá seleccionar un número que corresponderá a la opcion numérica y proporcionar los datos que la aplicación recibirá, utilizando la clase Scanner para capturar la entrada do usuário.
+
+Recuerda exhibirle al usuario las informaciones que han sido demandadas y informarle cuando hay un error. Además, es fundamental realizar pruebas exhaustivas para garantizar el correcto funcionamiento del programa, simulando diversas situaciones y recorridos para identificar y corregir posibles errores.</p>
 
