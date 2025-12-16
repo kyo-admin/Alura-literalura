@@ -52,3 +52,30 @@ Es fundamental crear métodos específicos para manejar estos datos, lo que har�
 
 Recuerda exhibirle al usuario las informaciones que han sido demandadas y informarle cuando hay un error. Además, es fundamental realizar pruebas exhaustivas para garantizar el correcto funcionamiento del programa, simulando diversas situaciones y recorridos para identificar y corregir posibles errores.</p>
 
+<h2>Consultar libros</h2>
+<img width="447" height="492" alt="image" src="https://github.com/user-attachments/assets/beede13d-ecfd-485b-9d3e-3d65dd2aee26" />
+
+<p>Bien, ahora vamos a empezar a construir nuestro catálogo de libros y autores. En esta etapa realizamos consulta de libro en la API, con la ayuda de la URL base “https://gutendex.com/books/” (sugerimos ver la documentación oficial para diferentes ejemplos de consulta).
+
+En este caso, realizamos la consulta por título del libro en la API para retener el primer resultado obtenido. Un libro debe tener los siguientes atributos:
+
+Título;
+
+Autor;
+
+Idiomas;
+
+Número de Descargas.
+
+Con esta funcionalidad lista, será posible presentar en la consola un listado de todos los libros que ya fueron buscados.
+
+Además, también debes posibilitar al usuario ver un listado con base en el idioma que uno o más libros fueron escritos, con la ayuda de las derived queries.
+
+→ En este desafío vamos a considerar que un libro posee solo un idioma, para que las consultas hechas con tal objeto sean más comprensibles y sencillas. En otras palabras, nos quedaremos solo con el primer resultado de idioma de la lista de idiomas recibida.
+
+En resumen tenemos estas dos funcionalidades obligatorias en el proyecto:
+
+Búsqueda de libro por título
+
+Lista de todos los libros</p>
+
