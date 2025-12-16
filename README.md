@@ -79,3 +79,10 @@ Búsqueda de libro por título
 
 Lista de todos los libros</p>
 
+<h2>Persistencia de datos</h2>
+<p>Ha llegado el momento de enfocamos en construir una base de datos, con tablas y atributos relacionados a nuestros objetos de interés: Libro y Autor.
+
+En este desafío vamos a utilizar la base de datos llamada PostgreSQL, una de las bases de datos open source más utilizadas en el mercado.</p>
+
+<img width="854" height="429" alt="image" src="https://github.com/user-attachments/assets/73062569-9207-4f89-abcb-45a54e8fd11c" />
+
