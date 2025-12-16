@@ -34,11 +34,18 @@ Con la resolución del desafío LiterAlura, experimentará directamente el papel
 
 <h2> Analizando la respuesta en formato JSON</h2>
 <p>En la cuarta fase de nuestro desafío, nos sumergimos en el análisis de la respuesta JSON utilizando la biblioteca Jackson en Java. La manipulación de datos JSON es esencial, ya que la mayoría de las respuestas de las API se presentan en este formato.
-
 → Para facilitar el análisis de los datos que se obtendrán de la API, recomendamos el uso del sitio de API para realizar consulta de libros o autores.
-
 Con la biblioteca Jackson, puedes realizar el mapeo eficiente de los datos JSON a objetos Java, facilitando así la extracción y manipulación de la información necesaria.
-
 → No olvides agregar la biblioteca Jackson al proyecto como dependencia del archivo POM.xml - sugerimos usar la versión 2.16.
-
 Recuerda utilizar las clases proporcionadas por Jackson, como ObjectMapper, para acceder a las distintas propiedades de la respuesta JSON.</p>
+<img width="586" height="443" alt="image" src="https://github.com/user-attachments/assets/d442e59b-59ba-4643-924c-b3f6ee3f2a43" />
+
+<h2>Convertiendo los datos</h2>
+<p>En esta etapa, llevaremos a cabo las conversiones con los datos de libros y autores, ahora que contamos con la información en nuestro poder.raised_hands
+Experimenta utilizando clases java para recibir los datos obtenidos mediante la API, transformar los atributos del cuerpo JSON a una clase Java y mostrar los resultados.
+Es fundamental crear métodos específicos para manejar estos datos, lo que hará que el código sea más modular y fácil de entender, como getters, setters and toString().
+→ No olvides utilizar las anotaciones @JsonIgnoreProperties y @JsonAlias para obtener los atributos deseados del cuerpo de respuesta json.</p>
+
+
+<h2></h2>
+
